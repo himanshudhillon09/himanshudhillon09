@@ -8,11 +8,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshudhillon09" alt="himanshudhillon09" /></a> </p><br/>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Front-End Development**
 
 - 📫 How to reach me **himanshu.dhillon99@gmail.com**
 
-- ⚡ Fun fact **I am BLUNT**
+- ⚡ Fun fact ** I am part time Gamer **
 <br/><br/><br/>
 
 
