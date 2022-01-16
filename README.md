@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/himanshu095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu095" height="30" width="40" /></a>
 <a href="https://instagram.com/himanshu_095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu_095" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/himanshu_dhillon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himanshu_dhillon" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/himanshu_095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himanshu_dhillon" height="30" width="40" /></a>
 </p><br/><br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshudhillon09&show_icons=true&locale=en&layout=compact" alt="himanshudhillon09" /></p>
@@ -35,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshudhillon09&show_icons=true&locale=en" alt="himanshudhillon09" /></p><br/><br/>
 
 
-<a href="https://github.com/himanshudhillon09/github-readme-activity-graph"><img alt="Himanshu Dhillon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=himanshudhillon09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br/><br/>
+>
