@@ -1,5 +1,5 @@
-<a href="#"><img align="center" src="https://camo.githubusercontent.com/0ab44d5c6a2cae99e3336c6ae57ec2a93292890a058f258f7c7bf53437fc2ffd/68747470733a2f2f62696f6d65646963616c6f6479737365792e626c6f67732e686f706b696e736d65646963696e652e6f72672f66696c65732f323032302f30322f70726f6772616d6d696e672d636f64652d77696e646f772d4765747479496d616765732d313132343833383932355f3634302e6a7067" height="500px" width="100%" ></a><br/>
-<h1 align="center">Hi 👋, I'm Himanshu Dhillon</h1>
+<a href="#"><img align="center" src="https://camo.githubusercontent.com/0ab44d5c6a2cae99e3336c6ae57ec2a93292890a058f258f7c7bf53437fc2ffd/68747470733a2f2f62696f6d65646963616c6f6479737365792e626c6f67732e686f706b696e736d65646963696e652e6f72672f66696c65732f323032302f30322f70726f6772616d6d696e672d636f64652d77696e646f772d4765747479496d616765732d313132343833383932355f3634302e6a7067" height="450px" width="100%" ></a><br/>
+<h1 align="center">👋 Hi , I'm Himanshu Dhillon</h1>
 <h3 align="center">A passionate about new technologies and its effects in society.</h3><br/><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshudhillon09&label=Profile%20views&color=0e75b6&style=flat" alt="himanshudhillon09" /> 
