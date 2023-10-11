@@ -3,7 +3,7 @@
 
 -  🔒 I’m an **Undegrad**
 
-- 🌱 I’m currently learning **Mobile App Development**    
+- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**    
 
 - 📫 How to reach me **himanshu.dhillon99@gmail.com** 
 
