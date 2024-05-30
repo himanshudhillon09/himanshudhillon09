@@ -1,9 +1,9 @@
 
 <h2 >  Hi  , I'm Himanshu Dhillon</h2>  <img align="right" src="https://c.tenor.com/FcVg5W9zZJQAAAAC/error.gif" height="120px" width="200px">
 
--  🔒 I’m an **Undegrad**
+-  🔒 I’m a **Software Developer**
 
-- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**    
+- 🌱 I’m currently working at **Reticen8 Technologies**    
 
 - 📫 How to reach me **himanshu.dhillon09@gmail.com** 
 
