@@ -38,7 +38,7 @@
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/Himanshu09052" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="himanshudhillon09" height="30" width="40" /></a>
+<a href="https://twitter.com/Himanshu052" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="himanshudhillon09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshu095" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="himanshudhillon09" height="30" width="40" /></a>
 
 
