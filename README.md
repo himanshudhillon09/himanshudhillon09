@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🔐 **Software Developer** @ **Reticen8 Technologies**  
+🔐 **Full Stack Developer** @ **Some Startup**  
 💡 **Mission:** Crafting secure, scalable, and elegant full-stack solutions  
 🌟 **Passion:** Turning complex problems into simple, beautiful code  
 📧 **Let's Connect:** [himanshu.dhillon09@gmail.com](mailto:himanshu.dhillon09@gmail.com)  
